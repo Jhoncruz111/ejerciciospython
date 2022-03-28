@@ -1,0 +1,3 @@
+nombre=input("tu,nombre porfavor: ")
+apellido=input("pon tu apellido: " )
+
