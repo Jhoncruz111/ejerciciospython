@@ -1,3 +1,4 @@
 nombre=input("tu,nombre porfavor: ")
 apellido=input("pon tu apellido: " )
 
+print(f[apellido],{nombre})
